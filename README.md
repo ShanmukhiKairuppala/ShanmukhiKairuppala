@@ -31,3 +31,6 @@ Here are some ideas to get you started:-->
   https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 </div>
 -->
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=ShanmukhiKairuppala&show_icons=true&theme=tokyonight" 
+/>
