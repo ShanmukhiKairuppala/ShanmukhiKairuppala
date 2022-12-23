@@ -45,7 +45,18 @@ Here are some ideas to get you started:-->
  <a href = "
 <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </div>
-<br>
+
+### Skills:
+  
+<div>
+   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  </div>
+ <br>
 <img 
 src="https://github-readme-stats.vercel.app/api?username=ShanmukhiKairuppala&show_icons=true&theme=tokyonight" 
 />
+  </center>
