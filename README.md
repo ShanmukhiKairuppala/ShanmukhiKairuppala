@@ -1,11 +1,26 @@
 ## Hello and welcome to my Github profile!👋
 
-### My name is Shanmukhi and I am a student who is passionate about using technology to improve Health care sector. I'm an open source enthusiasist and would love to collaborate and contribute to the communities. I always seek new challenges and opportunities to learn and grow.
+ ```c
+                      //open source contribution
+                          if(is_issue)
+                             {
+                               fork();
+                               clone();
+                               set_remote();
+                               code();
+                               stage();
+                               commit();
+                               push_changes();
+                               create_PR();
+                             }       
+  ```
+  
+### My name is Shanmukhi and I am a student who is passionate about using technology to improve Health care sector. I'm an open source enthusiasist and would love to            collaborate and contribute to the communities. I always seek new challenges and opportunities to learn and grow.
 <!--
 **ShanmukhiKairuppala/ShanmukhiKairuppala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-
+ ![nature]()
 - 🔭 I’m currently working on developing my skills
 - 🌱 I’m currently learning machine learning👩‍💻
 <!--- 👯 I’m looking to collaborate on ...
@@ -56,7 +71,11 @@ Here are some ideas to get you started:-->
   <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   </div>
  <br>
-<img 
-src="https://github-readme-stats.vercel.app/api?username=ShanmukhiKairuppala&show_icons=true&theme=tokyonight" 
-/>
-  </center>
+  <div style="display: flex; flex-direction: row;">
+    <img class="img" src="https://github-readme-stats.vercel.app/api?username=ShanmukhiKairuppala&show_icons=true&theme=tokyonight" />
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShanmukhiKairuppala&theme=tokyonight" alt="mystreak"/>
+</div>
+  <div style="display: flex; flex-direction: row;"> 
+  <img class="img" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanmukhiKairuppala&theme=radical&layout=tokyonight" />
+  </div>
+ 
