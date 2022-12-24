@@ -77,5 +77,7 @@ Here are some ideas to get you started:-->
 </div>
   <div style="display: flex; flex-direction: row;"> 
   <img class="img" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanmukhiKairuppala&theme=radical&layout=tokyonight" />
-  </div>
  
+  </div>
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
