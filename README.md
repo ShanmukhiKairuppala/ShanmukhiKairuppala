@@ -7,6 +7,7 @@
                                fork();
                                clone();
                                set_remote();
+                               create_branch();
                                code();
                                stage();
                                commit();
@@ -20,7 +21,6 @@
 **ShanmukhiKairuppala/ShanmukhiKairuppala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
- ![nature]()
 - 🔭 I’m currently working on developing my skills
 - 🌱 I’m currently learning machine learning👩‍💻
 <!--- 👯 I’m looking to collaborate on ...
@@ -79,5 +79,4 @@ Here are some ideas to get you started:-->
   <img class="img" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanmukhiKairuppala&theme=radical&layout=tokyonight" />
  
   </div>
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
+
