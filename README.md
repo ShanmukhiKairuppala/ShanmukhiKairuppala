@@ -28,7 +28,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about ...-->
 <!--- 📫 How to reach me: ...
 - 😄 Pronouns: ...-->
-- ⚡ Fun fact: I'm an aesthete and loves to paint:)🎨🖌️!
+- ⚡ Fun fact: I'm an aesthete and love to paint ;)🎨🖌️!
 
 ###  Connect with me:
 <!--**[Twitter](https://twitter.com/Sirious_19)**
