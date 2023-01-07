@@ -28,15 +28,15 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about ...-->
 <!--- 📫 How to reach me: ...
 - 😄 Pronouns: ...-->
-- ⚡ Fun fact: I'm an aesthete and love to paint ;)🎨🖌️!
+- ⚡ Fun fact: I'm an aesthete and love to paint ;)🎨🖌️!  
 
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 ###  Connect with me:
 <!--**[Twitter](https://twitter.com/Sirious_19)**
 
 **[Linkedin](https://www.linkedin.com/in/shanmukhi-k-56535525b/)**
 
 **[Instagram](https://www.instagram.com/shanmukhi_kairuppala/?next=%2F)**-->
-
 <div id="badges">
   <a href= "https://www.linkedin.com/in/shanmukhi-k-56535525b/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -60,7 +60,8 @@ Here are some ideas to get you started:-->
  <a href = "
 <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </div>
-
+ <br/>
+ 
 ### Skills:
   
 <div>
@@ -77,6 +78,11 @@ Here are some ideas to get you started:-->
 </div>
   <div style="display: flex; flex-direction: row;"> 
   <img class="img" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanmukhiKairuppala&theme=radical&layout=tokyonight" />
- 
-  </div>
+  </div>  
+ <br />
+  <img src="https://img.shields.io/github/stars/ShanmukhiKairuppala?label=Stars" alt="stars">
+ <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ShanmukhiKairuppala?color=236ad3&style=for-the-      badge&logo=github&label=Follow"/>
+ <img src="https://komarev.com/ghpvc/?username= ShanmukhiKairuppala &color=brightgreen" alt="watching_count" />
+ <img src="https://profile-counter.glitch.me/{ShanmukhiKairuppala}/count.svg" alt=" ShanmukhiKairuppala :: Visitor's Count" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=ShanmukhiKairuppala&theme=juicyfresh&no-bg=true" />
