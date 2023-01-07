@@ -82,7 +82,7 @@ Here are some ideas to get you started:-->
  <br />
   <img src="https://img.shields.io/github/stars/ShanmukhiKairuppala?label=Stars" alt="stars">
  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ShanmukhiKairuppala?color=236ad3&style=for-the-      badge&logo=github&label=Follow"/>
- <img src="https://komarev.com/ghpvc/?username= ShanmukhiKairuppala &color=brightgreen" alt="watching_count" />
+ <img src="https://komarev.com/ghpvc/?username=ShanmukhiKairuppala&color=brightgreen" alt="watching_count" />
  <img src="https://profile-counter.glitch.me/{ShanmukhiKairuppala}/count.svg" alt=" ShanmukhiKairuppala :: Visitor's Count" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=ShanmukhiKairuppala&theme=juicyfresh&no-bg=true" />
