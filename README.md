@@ -30,7 +30,7 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: ...-->
 - ⚡ Fun fact: I'm an aesthete and love to paint ;)🎨🖌️!  
 
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?hideBorder&theme=gradientBlue" alt="README Jokes"></a>
 ###  Connect with me:
 <!--**[Twitter](https://twitter.com/Sirious_19)**
 
@@ -73,11 +73,11 @@ Here are some ideas to get you started:-->
   </div>
  <br>
   <div style="display: flex; flex-direction: row;">
-    <img class="img" src="https://github-readme-stats.vercel.app/api?username=ShanmukhiKairuppala&show_icons=true&theme=tokyonight" />
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShanmukhiKairuppala&theme=tokyonight" alt="mystreak"/>
+    <img class="img" src="https://github-readme-stats.vercel.app/api?username=ShanmukhiKairuppala&show_icons=true&theme=radical" />
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShanmukhiKairuppala&theme=nightowl" alt="mystreak"/>
 </div>
   <div style="display: flex; flex-direction: row;"> 
-  <img class="img" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanmukhiKairuppala&theme=radical&layout=tokyonight" />
+  <img class="img" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanmukhiKairuppala&theme=react&layout=tokyonight" />
   </div>  
  <br />
   <img src="https://img.shields.io/github/stars/ShanmukhiKairuppala?label=Stars" alt="stars">
