@@ -17,7 +17,7 @@
                              }       
   ```
   
-### My name is Shanmukhi and I am a student who is passionate about using technology to improve Health care sector. I'm an open source enthusiasist and would love to            collaborate and contribute to the communities. I always seek new challenges and opportunities to learn and grow.
+### My name is Shanmukhi and I am a student who is passionate about using technology to improve Health care sector. I'm an open source enthusiast and would love to            collaborate and contribute to the communities. I always seek new challenges and opportunities to learn and grow.
 
 <!--
 **ShanmukhiKairuppala/ShanmukhiKairuppala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
