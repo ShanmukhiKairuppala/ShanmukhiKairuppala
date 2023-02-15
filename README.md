@@ -24,13 +24,13 @@
 
 Here are some ideas to get you started:-->
 
+- 🌏 I'm based in India.
 - 🔭 I’m currently working on developing my skills
 - 🌱 I’m currently learning python👩‍💻
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
-<!--- 📫 How to reach me: ...
-- 😄 Pronouns: ...-->
+<!--- 📫 How to reach me: ... -->
 - ⚡ Fun fact: I'm an aesthete and love to paint ;)🎨🖌️!  
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?hideBorder&theme=gradientBlue" alt="README Jokes"></a>
