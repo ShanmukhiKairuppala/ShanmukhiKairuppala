@@ -75,10 +75,10 @@ Here are some ideas to get you started:-->
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShanmukhiKairuppala&theme=nightowl" alt="mystreak"/>
 </div>
     
-  <div style="display: flex; flex-direction: row;"> 
+  <div align = "center"> 
   <img class="img" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanmukhiKairuppala&theme=react&layout=tokyonight" />
   
- [![Shanmukhi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShanmukhiKairuppala&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Shanmukhi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShanmukhiKairuppala&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
   </div>  
  <br />
@@ -86,7 +86,7 @@ Here are some ideas to get you started:-->
   <img src="https://img.shields.io/github/stars/ShanmukhiKairuppala?label=Stars" alt="stars">
  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ShanmukhiKairuppala?color=236ad3&style=for-the-      badge&logo=github&label=Followers"/>
  <img src="https://komarev.com/ghpvc/?username=ShanmukhiKairuppala&color=brightgreen" alt="watching_count" />
- <img src="https://profile-counter.glitch.me/{ShanmukhiKairuppala}/count.svg" alt=" ShanmukhiKairuppala :: Visitor's Count" />
+ <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=ShanmukhiKairuppala&theme=juicyfresh&no-bg=true" />
 </div>
