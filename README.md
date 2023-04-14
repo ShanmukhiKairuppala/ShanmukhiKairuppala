@@ -70,7 +70,7 @@ Here are some ideas to get you started:-->
   <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   </div>
  
- <div style="display: flex; flex-direction: row;">
+ <div >
     <img class="img" src="https://github-readme-stats.vercel.app/api?username=ShanmukhiKairuppala&show_icons=true&theme=radical" />
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShanmukhiKairuppala&theme=nightowl" alt="mystreak"/>
 </div>
