@@ -75,9 +75,11 @@ Here are some ideas to get you started:-->
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShanmukhiKairuppala&theme=nightowl" alt="mystreak"/>
 </div>
     
-  <div align = "center"> 
-  <img class="img" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanmukhiKairuppala&theme=react&layout=tokyonight" />
-  
+  <div align="center" > 
+  <img class="img"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanmukhiKairuppala&theme=react&layout=tokyonight" />
+ 
+  [![Shanmukhi's GitHub | Stats](https://stats.quine.sh/Shanmukhi/github?theme=light)](https://quine.sh)
+ 
  [![Shanmukhi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShanmukhiKairuppala&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
   </div>  
